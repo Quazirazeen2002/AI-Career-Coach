@@ -1,0 +1,6 @@
+{
+  "name": "AI Life Planner",
+  "description": "A modern, responsive website to organize goals, daily routines, habits, and personal growth using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
